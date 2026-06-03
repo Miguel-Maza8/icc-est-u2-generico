@@ -22,5 +22,5 @@ Imagen del codigo
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
-**Descipcion: **  En la practica se implemento las clases genericas
+**Descripcion: **  En la practica se implemento las clases genericas
 
