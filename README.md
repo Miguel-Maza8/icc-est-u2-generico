@@ -1,7 +1,7 @@
 # Práctica: Clases Genéricas en Java
 
 ## Datos del Estudiante
-- **Nombre:** Miguel Mza
+- **Nombre:** Miguel Maza
 - **Curso:** Computacion grupo 1
 - **Fecha:** 3-06-2026
 
